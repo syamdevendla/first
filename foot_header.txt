@@ -1,0 +1,6 @@
+col1|col2|col3
+100|hello|asdf
+300|hi|abc
+200|bye|xyz
+800|ciao|qwerty
+This is the footer line

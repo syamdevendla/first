@@ -1,0 +1,5 @@
+name~|age
+hello~|10
+hi~|11
+bye~|12
+ciao~|13
